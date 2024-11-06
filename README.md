@@ -1,4 +1,4 @@
-- # 💫 :             👋 :Hi, I am Deven Machchhar. <br> <br> A Passionate Developer From Morbi , Gujarat , India
+- # 💫 :👋 :Hi, I am Deven Machchhar. <br> <br> A Passionate Developer From Morbi , Gujarat , India
 [![](https://visitcount.itsvg.in/api?id=Deven14125&icon=8&color=0)](https://visitcount.itsvg.in) <br>
 - 💬 : I am Currently Studying Computer Science in Darshan University.<br> <br> 🌱 :I Learned Many Languages Such as Python, Data Structure , React-Js , MySql , C , C#... <br> <br> 📫 : Reach me Through deven81281256@gmail.com<br><br> ⚡ Fun fact : I am Working Very Professionally 
  
