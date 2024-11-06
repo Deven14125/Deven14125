@@ -1,6 +1,7 @@
 - # 💫 About Me: 👋 :Hi, I am Deven Machchhar.
 <br> A Passionate Developer From Morbi , Gujarat , India <br><br> 💬 : I am Currently Studying in Darshan University.<br> 🌱 :I am Learning Python, Data Structure , React-Js...<br><br> 📫 : Reach me Through deven81281256@gmail.com<br><br> ⚡ Fun fact : I am Working Very Professionally 
 
+[![](https://visitcount.itsvg.in/api?id=Deven14125&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deven-machchhar-b13287286/) 
@@ -22,6 +23,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Deven14125&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deven14125&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
