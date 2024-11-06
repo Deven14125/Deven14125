@@ -1,5 +1,5 @@
 - # 💫 About Me: 👋 :Hi, I am Deven Machchhar.
-<br> A Developer From Gujarat , India <br><br>  I am Currently Studying in Darshan University.<br> 🌱 :I am Learning Python, Data Structure , React-Js...<br><br> 📫 : Reach me Through deven81281256@gmail.com<br><br> ⚡ Fun fact : I am Working Very Professionally 
+<br> A Developer From Morbi , Gujarat , India <br><br>  I am Currently Studying in Darshan University.<br> 🌱 :I am Learning Python, Data Structure , React-Js...<br><br> 📫 : Reach me Through deven81281256@gmail.com<br><br> ⚡ Fun fact : I am Working Very Professionally 
 
 
 ## 🌐 Socials:
