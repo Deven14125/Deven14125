@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Passionate+Developer+From+Morbi+%2C+Gujarat+%2C+India;Building+Dreams+with+Code+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=P+assionate+Developer+From+Morbi+%2C+Gujarat+%2C+India;Building+Dreams+with+Code+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
