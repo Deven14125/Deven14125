@@ -1,5 +1,5 @@
 - # 💫 :👋 :Hi, I am Deven Machchhar. <br> <br> A Passionate Developer From Morbi , Gujarat , India
-[[](https://visitcount.itsvg.in/api?id=Deven14125&icon=8&color=0)](https://visitcount.itsvg.in) <br>
+[![](https://visitcount.itsvg.in/api?id=Deven14125&icon=8&color=0)](https://visitcount.itsvg.in) <br>
 
 # 💫 About Me:
 🔭 I'm currently working on...  a sentiment analysis model using PyTorch and Hugging Face transformers.<br><br>👯 I'm looking to collaborate on...  hackathons and fast-paced projects.<br><br>🤔 I'm looking for help with...  understanding advanced system design principles.<br><br>🌱 I'm currently learning...   advanced data structures and their real-world applications.<br><br>💬 Ask me about...  React, state management (Redux/Zustand), and building beautiful UIs.<br>                                     anything related to frontend performance and accessibility.<br><br>⚡ Fun fact...  My code only works when my cat is sleeping on my desk.
